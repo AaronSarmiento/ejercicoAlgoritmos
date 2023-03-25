@@ -2,3 +2,5 @@
 .project/
 .classpath/
 bin/
+src/launcher/Pruevas.java
+.git ignore
